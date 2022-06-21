@@ -1,3 +1,5 @@
 https://github.com/ash22194/stable-baselines3
 https://www.gymlibrary.ml/content/environment_creation/
 https://www.youtube.com/watch?v=bD6V3rcr_54
+https://www.youtube.com/watch?v=Mut_u40Sqz4
+https://www.youtube.com/watch?v=-daMfdwpmAg
